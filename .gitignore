@@ -1,0 +1,13 @@
+.vscode
+.idea/
+*.iml
+*.yaml
+config.yaml
+session.session*
+__pycache__
+toxic.csv
+api
+docs
+notebooks
+tools
+telegram_from_01-01-21
